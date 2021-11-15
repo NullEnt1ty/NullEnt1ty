@@ -6,7 +6,8 @@ Welcome to my page! I'm Dominique (♂️), Software developer since 2016.
 
 - Name's Dominique
 - Male
-- Born and living in 🇩🇪Germany @ 1995
+- Born in 🇩🇪Germany @ 1995
+- Currently living in Germany
 - B.Sc. in Computer Science
 - I love video games
 
