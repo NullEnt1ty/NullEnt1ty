@@ -1,6 +1,6 @@
 ![hello-there](./hello-there.jpg)
 
-Welcome to my page! I'm Dominique (♂️), Software developer since 2016.
+Welcome to my profile! I'm Dominique (♂️), Software developer since 2016.
 
 ## 😀 About me
 
