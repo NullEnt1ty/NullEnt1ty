@@ -7,7 +7,7 @@ Welcome to my page! I'm Dominique (♂️), Software developer since 2016.
 - Name's Dominique
 - Male
 - Born in 🇩🇪Germany @ 1995
-- Bachelor of Computer Science
+- B.Sc. in Computer Science
 - I love video games
 
 ## 👀 What I'm interested in
