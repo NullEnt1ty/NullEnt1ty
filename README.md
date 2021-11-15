@@ -1,4 +1,4 @@
-Hello there! 👋
+![hello-there](./hello-there.jpg)
 
 Welcome to my page! I'm Dominique (♂), Software developer since 2016.
 
