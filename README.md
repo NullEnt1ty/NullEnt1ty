@@ -16,7 +16,6 @@ Welcome to my profile! I'm Dominique (♂️), Software developer since 2016.
 - JavaScript & TypeScript
 - React
 - Linux ❤
-- Cloud computing platforms like AWS & Azure
 - Home automation ([Home Assistant](https://www.home-assistant.io/) rocks!)
 - Game development
 
